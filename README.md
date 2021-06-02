@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://user-images.githubusercontent.com/85201649/120414486-eb535e80-c30e-11eb-9719-543a50930af8.png)
+
+
 <!--
 **lesleyychan/lesleyychan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
