@@ -1,6 +1,5 @@
-### Hi there 👋
 
-![image](https://user-images.githubusercontent.com/85201649/120414486-eb535e80-c30e-11eb-9719-543a50930af8.png)
+![image](https://user-images.githubusercontent.com/85201649/120414870-7df3fd80-c30f-11eb-93e3-fddca04ec3cb.png)
 
 
 <!--
